@@ -111,7 +111,7 @@ optional = true
 version = ">1.4.0"
 
 [dependencies.mysql_async]
-git = "https://github.com/prisma/mysql_async"
+git = "https://github.com/drushman/mysql_async"
 optional = true
 branch = "vendored-openssl"
 
